@@ -68,12 +68,3 @@ python code.py
 
 This project demonstrates the importance of data preprocessing, normalization, standardization, and dimensionality reduction techniques in predictive modeling. The PCA results provide valuable insights into the data structure and the effectiveness of dimensionality reduction in preserving data variance.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-For any questions or suggestions, please feel free to contact me at abhay.gupta@example.com.
-
----
