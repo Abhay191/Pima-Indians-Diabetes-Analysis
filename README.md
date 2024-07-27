@@ -61,7 +61,7 @@ Clone the repository and execute the main script to perform the analysis and gen
 ```bash
 git clone https://github.com/yourusername/pima-indians-diabetes-analysis.git
 cd pima-indians-diabetes-analysis
-python main.py
+python code.py
 ```
 
 ## Conclusion
